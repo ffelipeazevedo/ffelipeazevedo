@@ -34,17 +34,6 @@ soluções eficientes.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
-------------------------------------------------------------------------
-
-## 📊 GitHub Stats
-
-<p align="left">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ffelipeazevedo&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffelipeazevedo&layout=compact&theme=tokyonight" />
-</p>
-
-
 ------------------------------------------------------------------------
 
 ## 🌐 Onde me encontrar
