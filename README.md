@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Felipe Azevedo
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas -- UFPR\
-💻 Futuro Desenvolvedor \|
+💻 Futuro Desenvolvedor \
 
 Sou apaixonado por tecnologia e busco uma oportunidade de estágio para aplicar meus
 conhecimentos.\
