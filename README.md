@@ -53,8 +53,6 @@ soluções eficientes.
 ------------------------------------------------------------------------
 
 ## 🌐 Onde me encontrar
-
----
 <p align="left">
   <a href="https://www.linkedin.com/in/ffelipe-azevedo">
     <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Azevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
