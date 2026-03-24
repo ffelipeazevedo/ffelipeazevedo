@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Felipe Azevedo
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas -- UFPR\
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - UFPR\
 💻 Futuro Desenvolvedor
 
 Sou apaixonado por tecnologia e busco uma oportunidade de estágio para aplicar meus
@@ -34,11 +34,27 @@ soluções eficientes.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ffelipeazevedo&theme=radical) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ffelipeazevedo&theme=radical) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ffelipeazevedo&theme=radical) |
+|:-:|:-:|:-:|
+
+| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ffelipeazevedo&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=ffelipeazevedo&theme=tokyonight&hide_border=false) |
+|:-:|:-:|
+
+
+</div>
+
 ------------------------------------------------------------------------
 
 ## 🌐 Onde me encontrar
 
-
+---
 <p align="left">
   <a href="https://www.linkedin.com/in/ffelipe-azevedo">
     <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Azevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
