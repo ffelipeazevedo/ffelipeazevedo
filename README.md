@@ -4,10 +4,7 @@
 💻 Estagiário de Desenvolvimento de Sistemas na Bellinati Perez
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha carreira na área de Tecnologia e Desenvolvimento de Software.
-
-Atualmente, atuo como Estagiário de Desenvolvimento de Sistemas na Bellinati Perez, onde tenho a oportunidade de transformar os conhecimentos adquiridos nos estudos em experiência prática, aprender com profissionais da área e evoluir por meio de desafios reais.
-
-Gosto de entender como as coisas funcionam, resolver problemas e transformar ideias e necessidades em soluções.
+Gosto de aprender na prática, resolver problemas e transformar ideias em soluções eficientes.
 
 ------------------------------------------------------------------------
 
