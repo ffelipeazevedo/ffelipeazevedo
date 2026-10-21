@@ -1,22 +1,26 @@
 # 👋 Olá, eu sou o Felipe Azevedo
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas - UFPR\
-💻 Desenvolvedor em formação
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - UFPR
+💻 Estagiário de Desenvolvimento de Sistemas na Bellinati Perez
 
-Sou apaixonado por tecnologia e busco uma oportunidade de estágio para aplicar meus
-conhecimentos.\
-Gosto de aprender na prática, resolver problemas e transformar ideias em
-soluções eficientes.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha carreira na área de Tecnologia e Desenvolvimento de Software.
+
+Atualmente, atuo como Estagiário de Desenvolvimento de Sistemas na Bellinati Perez, onde tenho a oportunidade de transformar os conhecimentos adquiridos nos estudos em experiência prática, aprender com profissionais da área e evoluir por meio de desafios reais.
+
+Gosto de entender como as coisas funcionam, resolver problemas e transformar ideias e necessidades em soluções.
 
 ------------------------------------------------------------------------
 
 ## 🚀 Sobre mim
 
--   🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas -- UFPR
--   🧠 Estudando Python, Algoritmos, HTML, CSS e Versionamento com Git
--   🖥️ Conhecimentos em lógica de programação e estrutura de sistemas
--   📚 Sempre buscando evoluir tecnicamente e profissionalmente
--   🤝 Perfil colaborativo, organizado e proativo
+- 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas - UFPR
+- 💻 Estagiário de Desenvolvimento de Sistemas na Bellinati Perez
+- 🧠 Desenvolvendo conhecimentos em Python, C, JavaScript, PHP, HTML e CSS
+- 🗄️ Conhecimentos em MySQL, SQL e conceitos de bancos de dados
+- 🔧 Utilizando Git e GitHub para versionamento e organização de projetos
+- 🌐 Interesse em Desenvolvimento de Software, Desenvolvimento Web e Análise de Sistemas
+- 📚 Aprendendo continuamente por meio de estudos, projetos e experiência profissional
+- 🤝 Perfil colaborativo, organizado, proativo e orientado à resolução de problemas
 
 ------------------------------------------------------------------------
 
