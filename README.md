@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou o Felipe Azevedo
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas - UFPR\n
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - UFPR 
+
 💻 Estagiário de Desenvolvimento de Sistemas na Bellinati Perez
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha carreira na área de Tecnologia e Desenvolvimento de Software.
